@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii2-Start events module.
 ========================
 This module provide a events managing system for Yii2-Start application.
@@ -45,3 +46,7 @@ php yii migrate --migrationPath=@yii3ds/events/migrations
 ```
 php yii events/rbac/add
 ```
+=======
+# yii2-3ds-events-modules
+this module management events on your website
+>>>>>>> 26774311f9a9651075df5a1caa421187cfe3f659
